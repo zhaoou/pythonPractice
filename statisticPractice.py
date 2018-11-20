@@ -25,7 +25,7 @@ def get_median(array):
     return median
 
 
-# most frequency number
+# most frequently number
 def get_mode(array):
     dict = {}
     for i in array:
