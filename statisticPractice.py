@@ -78,4 +78,5 @@ def get_correlation(array1, array2):
     print("get_correlation is " + str(result))
     return result
 
-get_correlation([1, 2, 3, 4], [4, 3, 2, 1])
+
+get_correlation([1, 2, 3, 4], [1, 2, 3, 4])
